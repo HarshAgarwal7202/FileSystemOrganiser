@@ -14,10 +14,10 @@ organize
   </li></ul>
   
   ## Introduction
-    File System Organizer is an application developed using node js ,which helps users to arrange the files into particular folder of
-    their specific file type for example -: when in download folder many of the files of different file type are downloaded in the 
-    folder we use to search a single file in the bundle but file system organizer organizes the whole files into specfic folders using
-    organize command.
+   File System Organizer is an application developed using node js ,which helps users to arrange the files into particular folder of
+   their specific file type for example -: when in download folder many of the files of different file type are downloaded in the 
+   folder we use to search a single file in the bundle but file system organizer organizes the whole files into specfic folders using
+   organize command.
     
  ## Why Node Js
  <p align="center">
@@ -29,11 +29,11 @@ organize
   
 ## Commands
    ### Help 
-    It works as a normal help function which helps us to know the commands which are used in whole system.
+   It works as a normal help function which helps us to know the commands which are used in whole system.
    ### Tree 
-    Tree command help in understanding the directory better by arranging it in a tree form ,it wil arrange all the directories and
-    folders in form which will ease us to check each file at the same time .
+   Tree command help in understanding the directory better by arranging it in a tree form ,it wil arrange all the directories and
+   folders in form which will ease us to check each file at the same time .
    ### Organize 
-    when in download folder many of the files of different file type are downloaded in the folder we use to search a single file in
-    the bundle but file system organizer organizes the whole files into specfic folders using organize command.
+   when in download folder many of the files of different file type are downloaded in the folder we use to search a single file in
+   the bundle but file system organizer organizes the whole files into specfic folders using organize command.
     
